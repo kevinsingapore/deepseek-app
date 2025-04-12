@@ -1,2 +1,10 @@
 logPath:
-    - ./originLog/error-slow.log
+    - originLog/error-slow.log
+
+database:
+    host: 127.0.0.1
+    port: 3306
+    user: root
+    password: Wnml6OeywzKvE3Ac
+    database: logs
+    charset: utf8mb4
