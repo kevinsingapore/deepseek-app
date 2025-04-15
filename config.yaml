@@ -6,5 +6,5 @@ database:
     port: 3306
     user: root
     password: Wnml6OeywzKvE3Ac
-    database: logs
+    database: log-messages
     charset: utf8mb4
