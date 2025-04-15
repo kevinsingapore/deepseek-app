@@ -6,7 +6,7 @@ services:
     container_name: mysql57  # 容器名称
     environment:  # 环境变量
       MYSQL_ROOT_PASSWORD: Wnml6OeywzKvE3Ac  # root用户的密码
-      MYSQL_DATABASE: logs  # 创建的数据库名称
+      MYSQL_DATABASE: log-messages  # 创建的数据库名称
       MYSQL_USER: kevin  # 创建的用户
       MYSQL_PASSWORD: Wnml6OeywzKvE3Ac  # 用户的密码
       MYSQL_CHARSET: utf8mb4 # 设置字符集为utf8mb4
